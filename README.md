@@ -1,5 +1,4 @@
-# my-first-project
-Example README structure:
+# Example README structure:
 
 # Coding Club
 
